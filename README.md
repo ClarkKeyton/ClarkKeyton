@@ -6,4 +6,4 @@ So... Enjoy!!!
 
 ## Donation
 
-[Donation](patreon.com/NijoFukushiOfficial)
+[Patreon](patreon.com/NijoFukushiOfficial)
