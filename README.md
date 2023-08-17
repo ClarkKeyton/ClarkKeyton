@@ -4,7 +4,7 @@ I'm Nijo Fukushi(aka ClarkKeyton)... Coding in C++, C#, NSIS, Lua, Inno Setup, P
 
 So... Enjoy!!!
 ## Stats
-[![ClarkKeyton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClarkKeyton)](https://github.com/ClarkKeyton/github-readme-stats) 
+[![ClarkKeyton's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ClarkKeyton)](https://github.com/ClarkKeyton/github-readme-stats) 
 
 ## Donation
 
