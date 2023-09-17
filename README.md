@@ -4,8 +4,6 @@ I'm Nijo Fukushi(aka ClarkKeyton)... Coding in C++, C#, NSIS, Lua, Inno Setup, P
 
 - I'm Currently Learning Java Programming!!!
 
-P.S: **My Stationary PC is Dead Because My Motherboard is not properly working!!!! That's why my Projects will be freezes on 7-8 months(maybe... not fact)!!!**
-
 So... Enjoy!!!
 ## Stats
 [![ClarkKeyton's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ClarkKeyton)](https://github.com/ClarkKeyton/github-readme-stats) 
